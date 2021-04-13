@@ -1,0 +1,19 @@
+{
+    "name": "Hubplushub",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/file_storage/ipfs": true,
+        "/category/collection/entity": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "Vanyto",
+        "/category/asset_value_tracking/token/decimals": "1234567890",
+        "/category/asset_value_tracking/token/supply": "4000000000000",
+        "/category/file_storage/ipfs/mode": "single",
+        "/category/asset_value_tracking/token/symbol": "ETG"
+    }
+}
